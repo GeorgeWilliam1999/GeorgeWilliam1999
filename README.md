@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum Physics, Mathematics and Finance.
 - 🌱 I’m currently learning mathematical finance and quantum computing.
 - 💞️ I’m looking to collaborate on... well I'm not really sure yet.
-- 📫 How to reach me? Just send a message!
+- 📫 How to reach me? Just send a message on LinkedIn! https://www.linkedin.com/in/george-william-scriven/
 
 <!---
 GeorgeWilliam1999/GeorgeWilliam1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
